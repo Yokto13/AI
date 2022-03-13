@@ -1,3 +1,5 @@
 venv/*
 titanic/*
 .idea/*
+.ipynb_checkpoints/
+

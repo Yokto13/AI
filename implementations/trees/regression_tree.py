@@ -29,8 +29,6 @@ class RegressionTree(BaseEstimator, RegressorMixin):
         self.root: Node | None = None
 
     def build_tree(self, X: np.array, y: np.array, depth) -> Optional[Node]:
-        if len(X) == 0:  # due to numerical instability sometimes split produces empty part
-            return None
         if depth == self.max_depth or len(X) == 1:
             target = y.mean()
             return Node(

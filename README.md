@@ -6,6 +6,7 @@ Small scripts and experiments related to AI.
 ## Index
 
 | Year | Name |
+|------|------|
 | 2023 | [Implementation of regression/classification trees](https://github.com/Yokto13/AI/tree/master/implementations/trees) |
 | 2023 | [Implementation of random forest with Czech explanation](https://github.com/Yokto13/AI/blob/master/implementations/trees/ksi_random_forest.ipynb) |
 | 2023 | [Pre-GPT era text2mcq](https://github.com/Yokto13/AI/blob/master/ai-notebooks/simple_text2mcq.ipynb) |

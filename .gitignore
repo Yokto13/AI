@@ -3,3 +3,5 @@ titanic/*
 .idea/*
 .ipynb_checkpoints/
 
+images/*
+annotations/*

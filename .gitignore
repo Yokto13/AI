@@ -3,3 +3,6 @@ titanic/*
 .idea/*
 .ipynb_checkpoints/
 
+ai-notebooks/data/*
+ai-notebooks/annotations/*
+.venv/*

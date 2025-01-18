@@ -7,7 +7,8 @@ Small scripts and experiments related to AI.
 
 | Year | Name |
 |------|------|
-| 2024 | [Trying U-net (WIP)](https://github.com/Yokto13/AI/blob/master/ai-notebooks/unet.ipynb) |
+| 2025 | [The penultimate layer and separability](https://github.com/Yokto13/AI/blob/master/ai-notebooks/nn_separators.ipynb) |
+| 2024 | [Trying U-net](https://github.com/Yokto13/AI/blob/master/ai-notebooks/unet.ipynb) |
 | 2023 | [Implementation of regression/classification trees](https://github.com/Yokto13/AI/tree/master/implementations/trees) |
 | 2023 | [Implementation of random forest with Czech explanation](https://github.com/Yokto13/AI/blob/master/implementations/trees/ksi_random_forest.ipynb) |
 | 2023 | [Pre-GPT era text2mcq](https://github.com/Yokto13/AI/blob/master/ai-notebooks/simple_text2mcq.ipynb) |

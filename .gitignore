@@ -6,3 +6,5 @@ titanic/*
 ai-notebooks/data/*
 ai-notebooks/annotations/*
 .venv/*
+images/*
+annotations/*
